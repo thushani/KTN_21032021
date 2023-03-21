@@ -11,6 +11,7 @@ This project is for visualising, Apple stocks data from Jan 2008 to Dec 2008 wit
 * **Pandas (`pip install pandas`)**
 * **plotly (`pip install plotly`)**
 * **openpyxl (`pip install openpyxl`)**
+* **jproperties (`pip install jproperties`)**
 
 ---
 ## Setup

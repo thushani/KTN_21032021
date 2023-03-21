@@ -2,3 +2,4 @@ dash~=2.9.1
 plotly~=5.13.1
 openpyxl
 pandas~=1.5.3
+jproperties~=2.1.1
